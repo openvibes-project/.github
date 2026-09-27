@@ -19,6 +19,11 @@
 
 ---
 
+> **AI disclosure:** OpenVIBES is built with the help of AI coding tools
+> (Claude Code and Codex), and they will continue to be used. Every change
+> still goes through a pull request and the full CI checks before it is
+> merged. Each repository's `CONTRIBUTING.md` has the policy.
+
 ### What it does
 
 A small, **read-only agent** on every host collects facts (packages, processes,
